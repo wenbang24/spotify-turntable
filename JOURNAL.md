@@ -14,4 +14,11 @@ Time spent: 6 hrs
 ## 2025-06-01
 So there's this cool library called spotipy which I probably should have used in the first place. It has a python client that can control spotify so I can interface it with GPIO pins too :)
 Also spent a while trying to get it to work with my HDMI display and the X server
+![image](img/rpi1.png)
 Time spent: 5 hrs
+
+## 2025-06-01
+Made a basic case - yet to do the needle assembly and the legs, but everything else should be done (note: the big hole in the disc is for the screen to fit through)
+![image](img/casev0_1.png)
+![image](img/casev0_2.png)
+Time spent: 3 hrs
