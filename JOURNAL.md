@@ -22,3 +22,8 @@ Made a basic case - yet to do the needle assembly and the legs, but everything e
 ![image](img/casev0_1.png)
 ![image](img/casev0_2.png)
 Time spent: 3 hrs
+
+## 2025-06-05
+Feet, fillets, and fiddling with needle angles (after research I decided to use a rotary encoder instead of a 36-detent rotary encoder :| bc they are really expensive)
+![image](img/casev0.1_1.png)
+![image](img/casev0.1_2.png)
