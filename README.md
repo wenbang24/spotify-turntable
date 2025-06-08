@@ -1,5 +1,6 @@
 # Spotify Turntable
 A spotify controller that looks like a cute turntable! Uses a Raspberry Pi Zero 2 W to connect to the Spotify API and control playback, and displays the current track on a small HDMI display. The turntable is made from a 3D-printed case.
+![images](img/v1.png)
 
 ## Features
 - Control Spotify playback (play, pause, next, previous)
