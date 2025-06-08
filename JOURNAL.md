@@ -15,6 +15,8 @@ Time spent: 6 hrs
 So there's this cool library called spotipy which I probably should have used in the first place. It has a python client that can control spotify so I can interface it with GPIO pins too :)
 Also spent a while trying to get it to work with my HDMI display and the X server
 ![image](img/rpi1.png)
+(i think i've had my yearly dose of solder fumes from soldering the GPIO pins :|)
+
 Time spent: 5 hrs
 
 ## 2025-06-01
@@ -27,3 +29,12 @@ Time spent: 3 hrs
 Feet, fillets, and fiddling with needle angles (after research I decided to use a rotary encoder instead of a 36-detent rotary encoder :| bc they are really expensive)
 ![image](img/casev0.1_1.png)
 ![image](img/casev0.1_2.png)
+Time Spent: 30 mins
+
+## 2025-06-08
+Modelled the needle assembly, also moved the magnets in the case to be inserted from above so the magnets in the case and bottom are not touching.
+I think I've finished the case :)
+![image](img/casev1.0_1.png)
+![image](img/casev1.0_2.png)
+![image](img/casev1.0_3.png)
+Time spent: 2 hrs
