@@ -1,11 +1,11 @@
 # Spotify Turntable
-A spotify controller that looks like a cute turntable! Uses a Raspberry Pi Zero 2 W to connect to the Spotify API and control playback, and displays the current track on a small HDMI display. The turntable is made from a 3D-printed case.
+A spotify controller that looks like a cute turntable! Uses an ESP32 to connect to the Spotify API and control playback, and displays the current track on a small HDMI display. The turntable is made from a 3D-printed case.
 ![images](img/v1.png)
 
 ## Features
 - Control Spotify playback (play, pause, next, previous)
-- Display current track information on a small HDMI display
-- Looks like a cute turntable with a 3D-printed case
+- Display current track information on a small display
+- Looks like a cute turntable with a 3D-printed case and a vinyl with your song's album art
 
 ## BOM
 - 2.8 inch circular HDMI display with ESP32 without touch (e.g. [this](https://www.aliexpress.com/item/1005008550178220.html?src=google&pdp_npi=4@dis!AUD!54.99!54.99!!!!!@!12000045664378399!ppc!!!&gPromoCode=5000000171197014))
@@ -22,7 +22,7 @@ Something like this:
 ![image](img/wiring.png)
 
 ## Setting Up
-(will actually figure this out when I get the parts)
+(will refine this when I get the parts)
 1. Get your Spotify API credentials by creating an app on the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications). You will need the Client ID and Client Secret.
 2. Clone this repository:
     ```bash
