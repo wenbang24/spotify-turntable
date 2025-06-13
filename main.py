@@ -94,6 +94,7 @@ def main():
     displayAlbumArt()
     try:
         while True:
+            # make this work with the actual wiring once parts are received.
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
                     return

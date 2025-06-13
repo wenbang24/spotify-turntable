@@ -38,3 +38,12 @@ I think I've finished the case :)
 ![image](img/casev1.0_2.png)
 ![image](img/casev1.0_3.png)
 Time spent: 2 hrs
+
+## 2025-06-13
+Exams are over :)
+
+I have realised that I do NOT need an Extremely Overpowered pi zero for this, so I am moving to a 2.8 inch display with an ESP32 baked right in.
+
+Also figured out the wiring.
+
+Time spent: 1 hr
