@@ -5,6 +5,8 @@ description: "A spotify controller that looks like a cute turntable!"
 created_at: "2025-05-30"
 ---
 
+Total time (so far): 17.5 hrs
+
 # Journal of Changes
 ## 2025-05-30
 Spent ages fighting with spotifyd, spotify-cli-linux, spotify-tui, raspotify, librespot, and other spotify clients. None of them worked.
